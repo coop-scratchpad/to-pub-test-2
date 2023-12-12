@@ -1,0 +1,10 @@
+---
+apiVersion: github.coop.no/v1alpha1
+kind: RepositoryConfig
+metadata:
+  name: repository-config
+spec:
+  description: dscaadf
+  archived: false
+  branches:
+    default: main
