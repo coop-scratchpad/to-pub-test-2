@@ -4,7 +4,8 @@ kind: RepositoryConfig
 metadata:
   name: repository-config
 spec:
-  description: dscaadf
+  description: dscaadfdfjl
   archived: false
+  visibility: public
   branches:
     default: main
