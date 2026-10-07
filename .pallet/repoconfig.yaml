@@ -5,7 +5,6 @@ metadata:
   name: repository-config
 spec:
   description: dscaadfdfjl
-  archived: false
   visibility: public
   branches:
     default: main
